@@ -3,7 +3,7 @@ package com.local;
 import java.util.ArrayList;
 import java.util.List;
 
-// Invoker
+// Emisora - Invoker
 public class Cook {
 
     List<Command> orderCommandList = new ArrayList<>();
